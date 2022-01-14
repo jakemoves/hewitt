@@ -5,3 +5,8 @@ A bookmarklet that turns any webpage into a Sol Lewitt drawing.
 
 ## How to try it
 Go to [https://jakemoves.github.io/lewitt](https://jakemoves.github.io/lewitt) and drag the 'LEWITT' box into your bookmarks bar. Go to a website and click the bookmark you added.
+
+## Details
+This piece is a version of LeWitt’s [Wall Drawing 51](https://massmoca.org/event/walldrawing51/), the instructions for which are ”All architectural points connected by straight lines."
+
+After a bit of testing, I decided to use interactable HTML elements (`input, button, a`). I tested including `div`s and other elements but it swamped the content.
